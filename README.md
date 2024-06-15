@@ -1,4 +1,4 @@
-Please prepare your APItry yourself, https://MRYingLEE.github.io/debateAgents/lab/index.html?path=debateAgents.ipynb .
+Please prepare your API and try yourself, https://MRYingLEE.github.io/debateAgents/lab/index.html?path=debateAgents.ipynb .
 
 # AI Settings
 
